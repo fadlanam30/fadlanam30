@@ -47,6 +47,16 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadlanam30&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fadlanamrullah/)
