@@ -44,7 +44,7 @@
   - Jetpack Compose
   - Fundamental UX Design
   - And more...
-
+- 📂 View all my certifications [here](https://drive.google.com/drive/u/0/folders/14eFMdtHu1ZZmDoFbS8m8x6P-_j_SwoMc)
 ---
 
 ---
